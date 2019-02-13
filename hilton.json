@@ -1,0 +1,24 @@
+[
+	{
+		"date": "Dec 29 2018",
+		"points": 20000,
+		"desc": "Amex card bonus points",
+		"notes": "Bonus for spending 2k on Aspire",
+		"currency": "Hilton"
+	},
+	{
+		"date": "Jan 1 2019",
+		"points": -360000,
+		"desc": "Standard free night",
+		"notes": "Redemption for Tokyo Hilton",
+		"currency": "Hilton",
+		"total": 135379
+	},
+	{
+		"date": "Dec 24 2018",
+		"points": 100000,
+		"desc": "points.com transfer",
+		"notes": "Christmas present from dad",
+		"currency": "Hilton"
+	}
+]
