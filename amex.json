@@ -33,5 +33,61 @@
 		"notes": "",
 		"currency": "Amex",
 		"total": 145792
-	}
+	},
+	{
+		"date": "Mar 6 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 150802
+	},
+	{
+		"date": "Mar 11 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 161848
+	},
+	{
+		"date": "Apr 6 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 193579
+	},
+	{
+		"date": "Apr 9 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 203373
+	},
+	{
+		"date": "Apr 19 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 203996
+	},
+	{
+		"date": "May 10 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 243130
+	},
+	{
+		"date": "May 16 2019",
+		"desc": "",
+		"notes": "Redeemed for NYC-PRG",
+		"currency": "Amex",
+		"total": 170130
+	},
+	{
+		"date": "Jun 3 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 177441
+	},
 ]
