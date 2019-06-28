@@ -20,5 +20,42 @@
 		"desc": "points.com transfer",
 		"notes": "Christmas present from dad",
 		"currency": "Hilton"
+	},
+	{
+		"date": "Jan 28 2019",
+		"points": 1000,
+		"desc": "Aspire bonus on air",
+		"notes": "Buying gift cards",
+		"currency": "Hilton"
+	},
+	{
+		"date": "Jan 28 2019",
+		"points": 2310,
+		"desc": "Aspire on eligible spend",
+		"notes": "regular points",
+		"currency": "Hilton"
+	},
+	{
+		"date": "Feb 6 2019",
+		"points": 219,
+		"desc": "Business bonus on shipping",
+		"notes": "extra points from shipping purchases",
+		"currency": "Hilton"
+	},
+	{
+		"date": "Feb 6 2019",
+		"points": 1107,
+		"desc": "Business card spend",
+		"notes": "regular points",
+		"currency": "Hilton",
+		"total": 140015
+	},
+	{
+		"date": "Mar 27 2019",
+		"points": 1107,
+		"desc": "",
+		"notes": "",
+		"currency": "Hilton",
+		"total": 200123
 	}
 ]
