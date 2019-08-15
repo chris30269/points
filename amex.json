@@ -97,4 +97,18 @@
 		"currency": "Amex",
 		"total": 191355
 	},
+	{
+		"date": "Aug 13 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 257199
+	},
+	{
+		"date": "Aug 15 2019",
+		"desc": "",
+		"notes": "",
+		"currency": "Amex",
+		"total": 357199
+	},
 ]
